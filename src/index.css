@@ -1,8 +1,10 @@
 h1 {
-  font-size: 1.5em;
-  margin: 2em 0 1em 0;
+  font-size: 1.6em;
+  margin: 0.5em 0 0.5em 0;
 }
-
+.data {
+  margin: 2em 0 0 0;
+}
 .top {
   display: inline;
   padding: 0 2em 0 0;
@@ -11,7 +13,7 @@ h1 {
 }
 
 .task-input {
-  margin: 1.5em 0 1.5em 0;
+  margin: 1em 0 1.5em 0;
   display: flex;
 }
 
@@ -99,3 +101,4 @@ h1 {
 .delete {
   border: none;
 }
+
